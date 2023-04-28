@@ -1,2 +1,2 @@
-# projects_from_yadex_practicum
+# projects_from_yandex_practicum
 Проекты по анализу данных, сделанные во время учёбы в яндекс практикуме
